@@ -23,7 +23,7 @@ Stop settling for less. Make game servers a first class citizen on your platform
 ## Pterodactyl v2 is coming soon
 
 The next major version of Pterodactyl is on the way: a fully modernized tech stack, a brand new admin area, and an
-extension SDK built into the panel. It is still 100% free and open source under the MIT license.
+extension SDK built into the panel. 
 
 [![Watch: Introducing Pterodactyl v2](.github/assets/v2-video.jpg)](https://www.youtube.com/watch?v=1ER4kv0jVEU)
 
